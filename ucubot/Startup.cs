@@ -13,6 +13,7 @@ using Ninject;
 using Ninject.Activation;
 using Ninject.Infrastructure.Disposal;
 using ucubot.Infrastructure;
+using ucubot.DBCode;
 
 namespace ucubot
 {
